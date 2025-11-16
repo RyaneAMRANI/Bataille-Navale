@@ -1,0 +1,7 @@
+[
+  "test_bateau.py::test_coule",
+  "test_bateau.py::test_positions",
+  "test_bateau.py::test_sous_classes",
+  "test_grille.py::test_init",
+  "test_grille.py::test_tirer"
+]
