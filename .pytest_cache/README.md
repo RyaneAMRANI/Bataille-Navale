@@ -1,8 +1,19 @@
-# pytest cache directory #
 
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+Jouer
+Lorsque vous avez lancé le main,
+Le plateau affiche des vagues (~) et les bateaux cachés.
 
-**Do not** commit this to version control.
+Entrez une coordonnée sous la forme ligne,colonne (exemple : 2,3) comprise en 0,0 et 7,9.
 
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+Si vous ratez, une croix (X) apparaît.
+
+Si vous touchez un bateau, une bombe (💣) apparaît.
+
+Une fois un bateau complètement coulé, il s’affiche sur le plateau avec sa forme.
+
+Quitter le jeu
+
+Tapez q à tout moment pour quitter.
+
+Les parties ne sont pas sauvegardées automatiquement
+
